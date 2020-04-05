@@ -1,14 +1,13 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
+    "year": "1992",
+    "serverAddress": "127.0.0.1",
+    "serverName": "FBI: Arizona Field Office Intranet",
     "iconName": "fbi.png",
     "terminalID": "fbi",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "f.ederal",
+        "password": "twisted",
+        "userName": "f.ederal"
     },
-    "randomSeed": true,
-    
-    "latestKernel": true
+    "randomSeed": false
 }
